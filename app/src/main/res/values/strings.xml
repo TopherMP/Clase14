@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clase14</string>
+    <string name="etUsuario">Ingrese un usuario</string>
+    <string name="etPass">Ingrese una contraseña</string>
+    <string name="btnIniciar">Iniciar sesión</string>
+    <string name="etResult">Bienvenido</string>
+</resources>
